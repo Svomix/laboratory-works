@@ -1,0 +1,3 @@
+-[ao] >[co] >[co] =[eq] -[ao] 9[vl] a[id] -[ao] 9[vl] a[id] 
+a a 
+9 9 

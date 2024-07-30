@@ -1,0 +1,2 @@
+do[do] until[un] -[ao] 2[vl] a[id] =[eq] 2[vl] loop[lp] 
+OK
