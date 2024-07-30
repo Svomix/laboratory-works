@@ -1,0 +1,6 @@
+Data about mesurements:
+30.01 4.54 2 1
+07.08 20.2 10 0.15
+The arithmetic means of the mesurements:
+30.01: 2.51333
+07.08: 10.1167

@@ -1,0 +1,10 @@
+Data about mesurements:
+dasdsad
+A999AA 163pyc
+29.04 1 2 3 4
+trp
+A676AP 063pyc
+30.10 2 3 4 5
+The arithmetic means of the mesurements:
+29.04 dasdsad: 2.5
+30.10 trp: 3.5
